@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todoreactjs/static/css/main.44cb1a09.css",
+    "main.js": "/todoreactjs/static/js/main.44bed509.js",
+    "index.html": "/todoreactjs/index.html",
+    "main.44cb1a09.css.map": "/todoreactjs/static/css/main.44cb1a09.css.map",
+    "main.44bed509.js.map": "/todoreactjs/static/js/main.44bed509.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44cb1a09.css",
+    "static/js/main.44bed509.js"
+  ]
+}
